@@ -1,0 +1,19 @@
+﻿  ALgoTest.cpp
+C:\Users\fastf\Desktop\ПРОГА\4 семестр\АиСД\CourseWork\CourseWork\Graph.cpp(46,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\fastf\Desktop\ПРОГА\4 семестр\АиСД\CourseWork\CourseWork\Graph.cpp(54,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\fastf\Desktop\ПРОГА\4 семестр\АиСД\CourseWork\CourseWork\Graph.cpp(87,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\fastf\Desktop\ПРОГА\4 семестр\АиСД\CourseWork\CourseWork\Graph.cpp(131,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\fastf\Desktop\ПРОГА\4 семестр\АиСД\CourseWork\CourseWork\Graph.cpp(135,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\fastf\Desktop\ПРОГА\4 семестр\АиСД\CourseWork\CourseWork\List.cpp(255,11): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\fastf\Desktop\ПРОГА\4 семестр\АиСД\CourseWork\CourseWork\List.cpp(252): message : во время компиляции функции-члена класс шаблон "int BiList<std::string>::find(Type)"
+          with
+          [
+              Type=std::string
+          ]
+C:\Users\fastf\Desktop\ПРОГА\4 семестр\АиСД\CourseWork\CourseWork\Graph.cpp(117): message : выполняется компиляция ссылки на экземпляр шаблон функции "int BiList<std::string>::find(Type)"
+          with
+          [
+              Type=std::string
+          ]
+C:\Users\fastf\Desktop\ПРОГА\4 семестр\АиСД\CourseWork\CourseWork\Graph.h(11): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "BiList<std::string>"
+  ALgoTest.vcxproj -> C:\Users\fastf\Desktop\ПРОГА\4 семестр\АиСД\CourseWork\CourseWork\Debug\ALgoTest.dll
